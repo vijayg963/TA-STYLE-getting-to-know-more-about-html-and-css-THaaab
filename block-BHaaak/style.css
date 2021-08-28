@@ -1,0 +1,14 @@
+img{
+    size: 30px;
+
+
+}
+a{
+    font-size: 20px;
+}
+
+.mail, .back {
+    color: black;
+    text-decoration: none;
+    background-color: green;
+}
